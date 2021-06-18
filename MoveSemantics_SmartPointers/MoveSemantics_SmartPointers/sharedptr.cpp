@@ -112,7 +112,7 @@ void sharedPtr()
 	Example2();
 	Example3();
 }
-void main()
-{
-	sharedPtr();
-}
+//void main()
+//{
+//	sharedPtr();
+//}

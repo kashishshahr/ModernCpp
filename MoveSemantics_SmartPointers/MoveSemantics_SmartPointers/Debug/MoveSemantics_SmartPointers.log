@@ -1,3 +1,4 @@
-﻿  sharedptr.cpp
-E:\InternShip\C++20\MoveSemantics_SmartPointers\MoveSemantics_SmartPointers\sharedptr.cpp(116,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  weakptr.cpp
+E:\InternShip\C++20\MoveSemantics_SmartPointers\MoveSemantics_SmartPointers\weakptr.cpp(50,21): warning C4018: '<': signed/unsigned mismatch
+E:\InternShip\C++20\MoveSemantics_SmartPointers\MoveSemantics_SmartPointers\weakptr.cpp(83,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
   MoveSemantics_SmartPointers.vcxproj -> E:\InternShip\C++20\MoveSemantics_SmartPointers\Debug\MoveSemantics_SmartPointers.exe

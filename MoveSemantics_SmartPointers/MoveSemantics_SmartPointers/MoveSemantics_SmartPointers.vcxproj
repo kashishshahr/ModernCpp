@@ -143,6 +143,7 @@
     <ClCompile Include="MoveSemantics_SmartPointers.cpp" />
     <ClCompile Include="sharedptr.cpp" />
     <ClCompile Include="SmartPointers.cpp" />
+    <ClCompile Include="weakptr.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
