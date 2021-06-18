@@ -1,0 +1,3 @@
+﻿  sharedptr.cpp
+E:\InternShip\C++20\MoveSemantics_SmartPointers\MoveSemantics_SmartPointers\sharedptr.cpp(116,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MoveSemantics_SmartPointers.vcxproj -> E:\InternShip\C++20\MoveSemantics_SmartPointers\Debug\MoveSemantics_SmartPointers.exe
